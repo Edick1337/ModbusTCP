@@ -6,6 +6,6 @@ First of all, we will create a "server" to which we will connect for debugging. 
 
 ![Server](/Server.png?raw=true "Server")
 
-The main program (client) contains two panels with graphs, as well as a connection control panel. It is possible to set the device polling interval, as well as the starting address of the register whose value should be received. If the connection is successful, the message "OK!" appears. in the panel on the right, and if unsuccessful - an error notification.
+The main program (client) contains two panels with graphs, as well as a connection control panel. It is possible to set the device polling interval, as well as the starting address of the register whose value should be received. If the connection is successful, the message "OK!" appears in the panel on the right, and if unsuccessful - an error notification.
 
 ![Client](/Client.png?raw=true "Client")
