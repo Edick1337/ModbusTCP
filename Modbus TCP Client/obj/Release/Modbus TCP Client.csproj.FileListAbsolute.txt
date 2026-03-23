@@ -1,0 +1,20 @@
+D:\workspace\Modbus TCP\Modbus TCP Client\bin\Release\Modbus TCP Client.exe.config
+D:\workspace\Modbus TCP\Modbus TCP Client\bin\Release\Modbus TCP Client.exe.manifest
+D:\workspace\Modbus TCP\Modbus TCP Client\bin\Release\Modbus TCP Client.application
+D:\workspace\Modbus TCP\Modbus TCP Client\bin\Release\Modbus TCP Client.exe
+D:\workspace\Modbus TCP\Modbus TCP Client\bin\Release\Modbus TCP Client.pdb
+D:\workspace\Modbus TCP\Modbus TCP Client\bin\Release\EasyModbus.xml
+D:\workspace\Modbus TCP\Modbus TCP Client\bin\Release\NModbus.xml
+D:\workspace\Modbus TCP\Modbus TCP Client\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\workspace\Modbus TCP\Modbus TCP Client\obj\Release\Modbus TCP Client.csproj.AssemblyReference.cache
+D:\workspace\Modbus TCP\Modbus TCP Client\obj\Release\Modbus TCP Client.csproj.SuggestedBindingRedirects.cache
+D:\workspace\Modbus TCP\Modbus TCP Client\obj\Release\Modbus_TCP.Form1.resources
+D:\workspace\Modbus TCP\Modbus TCP Client\obj\Release\Modbus_TCP.Properties.Resources.resources
+D:\workspace\Modbus TCP\Modbus TCP Client\obj\Release\Modbus TCP Client.csproj.GenerateResource.cache
+D:\workspace\Modbus TCP\Modbus TCP Client\obj\Release\Modbus TCP Client.csproj.CoreCompileInputs.cache
+D:\workspace\Modbus TCP\Modbus TCP Client\obj\Release\Modbus TCP Client.csproj.Fody.CopyLocal.cache
+D:\workspace\Modbus TCP\Modbus TCP Client\obj\Release\Modbus TCP Client.exe.manifest
+D:\workspace\Modbus TCP\Modbus TCP Client\obj\Release\Modbus TCP Client.application
+D:\workspace\Modbus TCP\Modbus TCP Client\obj\Release\Modbus TCP Client.csproj.CopyComplete
+D:\workspace\Modbus TCP\Modbus TCP Client\obj\Release\Modbus TCP Client.exe
+D:\workspace\Modbus TCP\Modbus TCP Client\obj\Release\Modbus TCP Client.pdb

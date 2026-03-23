@@ -1,0 +1,12 @@
+D:\workspace\Modbus TCP\Modbus TCP Server\bin\Release\Modbus_TCP_Server.exe
+D:\workspace\Modbus TCP\Modbus TCP Server\bin\Release\Modbus_TCP_Server.pdb
+D:\workspace\Modbus TCP\Modbus TCP Server\bin\Release\EasyModbus.xml
+D:\workspace\Modbus TCP\Modbus TCP Server\bin\Release\NModbus.xml
+D:\workspace\Modbus TCP\Modbus TCP Server\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\workspace\Modbus TCP\Modbus TCP Server\obj\Release\Modbus TCP Server.csproj.AssemblyReference.cache
+D:\workspace\Modbus TCP\Modbus TCP Server\obj\Release\Modbus TCP Server.csproj.SuggestedBindingRedirects.cache
+D:\workspace\Modbus TCP\Modbus TCP Server\obj\Release\Modbus TCP Server.csproj.CoreCompileInputs.cache
+D:\workspace\Modbus TCP\Modbus TCP Server\obj\Release\Modbus TCP Server.csproj.Fody.CopyLocal.cache
+D:\workspace\Modbus TCP\Modbus TCP Server\obj\Release\Modbus TCP Server.csproj.CopyComplete
+D:\workspace\Modbus TCP\Modbus TCP Server\obj\Release\Modbus_TCP_Server.exe
+D:\workspace\Modbus TCP\Modbus TCP Server\obj\Release\Modbus_TCP_Server.pdb
